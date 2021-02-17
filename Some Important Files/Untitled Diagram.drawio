@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T16:08:01.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="aypcc24q7479v3sFgbqR" version="14.3.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-02-17T16:13:14.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="UuVR36KZGUINQxcoiCLl" version="14.3.2" type="github" pages="5">
   <diagram id="EoRAbrWrcpJc-XuBqRVa" name="CA-2">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -318,8 +318,8 @@
         <mxCell id="D7xw7nq_w88iRapVIIId-15" value="Chat Screen" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="D7xw7nq_w88iRapVIIId-1">
           <mxGeometry x="70" y="310" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="D7xw7nq_w88iRapVIIId-19" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D7xw7nq_w88iRapVIIId-1">
-          <mxGeometry x="150" y="220" width="60" height="40" as="geometry" />
+        <mxCell id="D7xw7nq_w88iRapVIIId-19" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Browser&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D7xw7nq_w88iRapVIIId-1">
+          <mxGeometry x="5" y="-50" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D7xw7nq_w88iRapVIIId-22" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Browser.svg;" vertex="1" parent="D7xw7nq_w88iRapVIIId-1">
           <mxGeometry x="-20" y="-10" width="112.5" height="90" as="geometry" />
@@ -400,6 +400,9 @@
               <mxPoint x="355" y="570" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="D7xw7nq_w88iRapVIIId-46" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D7xw7nq_w88iRapVIIId-1">
+          <mxGeometry x="160" y="230" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
